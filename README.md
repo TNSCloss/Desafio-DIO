@@ -1,7 +1,7 @@
 # 🏦 Sistema Bancário em Python
 
 ## 📌 Sobre o projeto
-Este projeto foi desenvolvido como parte do desafio **"Otimizando o Sistema Bancário com Funções Python"**, cujo objetivo é refatorar e melhorar a estrutura de um sistema bancário simples, aplicando **funções reutilizáveis** para organizar melhor o código e facilitar sua manutenção.
+Este projeto foi desenvolvido como parte do desafio **"Otimizando o Sistema Bancário com Funções Python"**, cujo objetivo é melhorar a estrutura de um sistema bancário simples, aplicando **funções reutilizáveis** para organizar melhor o código e facilitar sua manutenção.
 
 O sistema permite realizar operações básicas de um banco:
 - Depósito  
