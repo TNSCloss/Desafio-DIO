@@ -1,4 +1,5 @@
-# 🏦 Sistema Bancário em Python
+<img width="1001" height="157" alt="Captura de tela de 2025-11-30 14-53-13" src="https://github.com/user-attachments/assets/7739b94e-318f-4315-a38e-9a13c354d736" />
+
 
 ## 📌 Sobre o projeto
 Este projeto foi desenvolvido como parte do desafio **"Otimizando o Sistema Bancário com Funções Python"**, cujo objetivo é melhorar a estrutura de um sistema bancário simples, aplicando **funções reutilizáveis** para organizar melhor o código e facilitar sua manutenção.
