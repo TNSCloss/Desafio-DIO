@@ -55,7 +55,7 @@ Titular: João da Silva (123.***.789-**)
 ## ▶️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/TNSCloss/Desafio-DIO/
+   git clone https://github.com/TNSCloss/Desafio-DIO.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
